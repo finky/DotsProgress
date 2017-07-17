@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="DotProgress">
+    <attr name="dotsCount" format="integer" />
+    <attr name="dotsPadding" format="dimension"/>
+    <attr name="dotProgressColor" format="color"/>
+    <attr name="dotDefaultColor" format="color"/>
+  </declare-styleable>
+</resources>
